@@ -1,0 +1,33 @@
+body{
+	background-color: gray;
+}
+
+.main_body{
+	width: 1000px;
+	margin: auto;
+	text-align: center;
+	background-color: cyan;
+	height: 1000px;
+}
+
+.nav{
+	background-color: white;
+}
+
+a{
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.mid{
+	background-color: white;
+	float: left;
+	width: 350px;
+	
+}
+
+.link{
+	background-color: white;
+	text-align: right;
+	
+}
